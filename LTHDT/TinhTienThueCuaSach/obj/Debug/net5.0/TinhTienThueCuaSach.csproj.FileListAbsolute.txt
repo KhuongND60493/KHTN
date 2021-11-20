@@ -1,0 +1,15 @@
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/bin/Debug/net5.0/TinhTienThueCuaSach.deps.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/bin/Debug/net5.0/TinhTienThueCuaSach.runtimeconfig.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/bin/Debug/net5.0/TinhTienThueCuaSach.runtimeconfig.dev.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/bin/Debug/net5.0/TinhTienThueCuaSach.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/bin/Debug/net5.0/ref/TinhTienThueCuaSach.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/bin/Debug/net5.0/TinhTienThueCuaSach.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/TinhTienThueCuaSach.csproj.AssemblyReference.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/TinhTienThueCuaSach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/TinhTienThueCuaSach.AssemblyInfoInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/TinhTienThueCuaSach.AssemblyInfo.cs
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/TinhTienThueCuaSach.csproj.CoreCompileInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/TinhTienThueCuaSach.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/ref/TinhTienThueCuaSach.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/TinhTienThueCuaSach.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhTienThueCuaSach/obj/Debug/net5.0/TinhTienThueCuaSach.genruntimeconfig.cache

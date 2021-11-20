@@ -1,0 +1,15 @@
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/bin/Debug/net5.0/De1.deps.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/bin/Debug/net5.0/De1.runtimeconfig.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/bin/Debug/net5.0/De1.runtimeconfig.dev.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/bin/Debug/net5.0/De1.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/bin/Debug/net5.0/ref/De1.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/bin/Debug/net5.0/De1.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/De1.csproj.AssemblyReference.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/De1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/De1.AssemblyInfoInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/De1.AssemblyInfo.cs
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/De1.csproj.CoreCompileInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/De1.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/ref/De1.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/De1.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/De1/obj/Debug/net5.0/De1.genruntimeconfig.cache

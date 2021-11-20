@@ -1,0 +1,15 @@
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/bin/Debug/net5.0/DiemTBHocSinhLonNhat.deps.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/bin/Debug/net5.0/DiemTBHocSinhLonNhat.runtimeconfig.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/bin/Debug/net5.0/DiemTBHocSinhLonNhat.runtimeconfig.dev.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/bin/Debug/net5.0/DiemTBHocSinhLonNhat.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/bin/Debug/net5.0/ref/DiemTBHocSinhLonNhat.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/bin/Debug/net5.0/DiemTBHocSinhLonNhat.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/DiemTBHocSinhLonNhat.csproj.AssemblyReference.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/DiemTBHocSinhLonNhat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/DiemTBHocSinhLonNhat.AssemblyInfoInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/DiemTBHocSinhLonNhat.AssemblyInfo.cs
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/DiemTBHocSinhLonNhat.csproj.CoreCompileInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/DiemTBHocSinhLonNhat.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/ref/DiemTBHocSinhLonNhat.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/DiemTBHocSinhLonNhat.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/DiemTBHocSinhLonNhat/obj/Debug/net5.0/DiemTBHocSinhLonNhat.genruntimeconfig.cache

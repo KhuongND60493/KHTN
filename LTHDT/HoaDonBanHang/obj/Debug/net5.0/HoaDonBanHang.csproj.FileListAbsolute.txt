@@ -1,0 +1,15 @@
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/bin/Debug/net5.0/HoaDonBanHang.deps.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/bin/Debug/net5.0/HoaDonBanHang.runtimeconfig.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/bin/Debug/net5.0/HoaDonBanHang.runtimeconfig.dev.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/bin/Debug/net5.0/HoaDonBanHang.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/bin/Debug/net5.0/ref/HoaDonBanHang.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/bin/Debug/net5.0/HoaDonBanHang.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/HoaDonBanHang.csproj.AssemblyReference.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/HoaDonBanHang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/HoaDonBanHang.AssemblyInfoInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/HoaDonBanHang.AssemblyInfo.cs
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/HoaDonBanHang.csproj.CoreCompileInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/HoaDonBanHang.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/ref/HoaDonBanHang.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/HoaDonBanHang.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/HoaDonBanHang/obj/Debug/net5.0/HoaDonBanHang.genruntimeconfig.cache

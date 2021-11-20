@@ -1,0 +1,15 @@
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/bin/Debug/net5.0/TinhChuViTamGiac.deps.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/bin/Debug/net5.0/TinhChuViTamGiac.runtimeconfig.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/bin/Debug/net5.0/TinhChuViTamGiac.runtimeconfig.dev.json
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/bin/Debug/net5.0/TinhChuViTamGiac.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/bin/Debug/net5.0/ref/TinhChuViTamGiac.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/bin/Debug/net5.0/TinhChuViTamGiac.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/TinhChuViTamGiac.csproj.AssemblyReference.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/TinhChuViTamGiac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/TinhChuViTamGiac.AssemblyInfoInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/TinhChuViTamGiac.AssemblyInfo.cs
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/TinhChuViTamGiac.csproj.CoreCompileInputs.cache
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/TinhChuViTamGiac.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/ref/TinhChuViTamGiac.dll
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/TinhChuViTamGiac.pdb
+/Users/romionguyen/Desktop/STUDY/KHTN/git/LTHDT/TinhChuViTamGiac/obj/Debug/net5.0/TinhChuViTamGiac.genruntimeconfig.cache
